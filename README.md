@@ -20,4 +20,4 @@
 ## 🚧 Improvement 
 - Through the project you can see code such as:
 ```ply:SendLua("chat.AddText(XeninUI.Theme.Red, \"[ERROR] \", color_white, \"You are not allowed to use this!\")")```
-- Since creating this project 3 years ago, I would now use my library to send a coloured chat message as it is less resource heavy
+- Since creating this project 3 years ago, I would now use my [library](https://github.com/kierancrossley/server-addtext/) to send a coloured chat message as it is less resource heavy
